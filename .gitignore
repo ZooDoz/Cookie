@@ -1,8 +1,12 @@
-.classpath
 .vscode
+
 /target
+*/target
+
 .idea
 *.iml
+
+.classpath
 .project
-/.settings/*
-/*/.settings/*
+/.settings
+*/.settings

@@ -17,5 +17,6 @@
 
 	<modules>
 		<module>socket</module>
+		<module>l_vertx</module>
 	</modules>
 </project>
